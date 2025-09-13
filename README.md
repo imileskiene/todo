@@ -13,7 +13,7 @@ This project was created for learning purposes by following a tutorial by [Great
 
 ## Live Demo
 
-👉 [View Live Demo](https://imileskiene.github.io/quizapp/)  
+👉 [View Live Demo](https://imileskiene.github.io/todo/)  
 
 ---
 
@@ -27,7 +27,7 @@ This project was created for learning purposes by following a tutorial by [Great
 
 ## Screenshot
 
-![quiz app Screenshot](quizapp.png)
+![quiz app Screenshot](todo.png)
 
 ---
 
